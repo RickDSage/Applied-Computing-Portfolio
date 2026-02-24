@@ -1,11 +1,42 @@
-## Cybersecurity & Risk Management – FinSecure Ltd (Simulated Case Study)
+# Cybersecurity & Risk Management — FinSecure Ltd (Simulated Case Study)
 
-This folder contains an applied cybersecurity risk assessment based on a **simulated organisation, FinSecure Ltd**, created for an Applied Computing coursework project.
+An applied cybersecurity risk assessment based on a **simulated organisation (FinSecure Ltd)**, completed as part of an Applied Computing degree.
 
-The assessment covers:
-- Identification and analysis of internal and external security threats
-- Risk evaluation and mitigation strategies aligned with **NIST CSF** and **ISO/IEC 27001**
-- Application of **CIA Triad principles** (Confidentiality, Integrity, Availability)
-- Consideration of **UK GDPR** requirements and regulatory compliance
+---
 
-This project demonstrates practical security analysis, risk management, and governance skills relevant to entry-level cybersecurity and IT roles.
+## Summary
+- Analysed internal and external cybersecurity threats  
+- Assessed risk and proposed mitigation controls  
+- Aligned recommendations with recognised security frameworks and regulations  
+
+---
+
+## Key Areas Covered
+- Threat identification and risk analysis  
+- Risk treatment and mitigation strategies  
+- Alignment with **NIST Cybersecurity Framework** and **ISO/IEC 27001**  
+- Application of the **CIA Triad** (Confidentiality, Integrity, Availability)  
+- Consideration of **UK GDPR** compliance and data protection principles  
+
+---
+
+## Skills Demonstrated
+- Cybersecurity risk assessment  
+- Security governance and policy analysis  
+- Framework-based security thinking (NIST, ISO 27001)  
+- Understanding of regulatory and compliance requirements  
+- Clear security-focused documentation  
+
+---
+
+## Relevant Roles
+- Cybersecurity Trainee / Junior Security Analyst  
+- SOC Analyst (Entry-Level)  
+- IT Support with Security Focus  
+- Risk or Compliance Assistant  
+
+---
+
+## Notes
+- FinSecure Ltd is a **fictional organisation** used for academic purposes  
+- No real systems, data, or organisations are referenced  
