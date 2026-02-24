@@ -1,50 +1,40 @@
-# MediLink Pharmacy Management System (Microsoft Access)
+# Excel Data Analysis (Microsoft Excel)
 
-A relational database project demonstrating data modelling, SQL querying, and data integrity using Microsoft Access, based on a simulated pharmacy business.
+A practical Excel project demonstrating data analysis, conditional logic, structured reporting, and formula accuracy using Microsoft Excel.
 
 ---
 
 ## Summary
-- Designed a relational database to support operational reporting  
-- Structured datasets for accurate querying and analysis  
-- Used Access SQL to extract and summarise business data  
-
----
-
-## Dataset Scope
-- Customers  
-- Prescriptions  
-- Medicines  
-- Suppliers  
-- Sales transactions  
+- Built spreadsheets to support data analysis and reporting  
+- Applied Excel formulas to classify, retrieve, and validate data  
+- Used absolute and relative cell referencing to maintain calculation accuracy  
+- Produced structured outputs suitable for business use  
 
 ---
 
 ## Key Technical Work
-- Normalised tables (up to **Third Normal Form (3NF)**)  
-- Defined primary and foreign key relationships  
-- Applied validation rules and integrity constraints  
-- Built queries for:
-  - Sales analysis  
-  - Inventory and supplier tracking  
-  - Customer and prescription reporting  
+- **IF statements** for conditional logic and categorisation  
+- **VLOOKUP** for structured data retrieval across tables  
+- **Absolute referencing (`$`)** to lock lookup ranges during autofill  
+- Accurate formula replication using relative references  
+- Spreadsheet design focused on clarity and usability  
 
 ---
 
 ## Skills Used
-- Relational data modelling  
-- SQL querying (Microsoft Access)  
-- Data quality and integrity controls  
-- Translating business requirements into structured datasets  
+- Data analysis using Microsoft Excel  
+- Conditional logic (IF statements)  
+- Data lookup and table referencing (VLOOKUP)  
+- Absolute and relative cell referencing  
+- Attention to data accuracy and reporting quality  
 
 ---
 
 ## Tools
-- Microsoft Access  
-- SQL (Access)  
+- Microsoft Excel  
 
 ---
 
 ## Notes
-- Simulated business scenario (MediLink Pharmacy)  
-- Supporting documentation to be added  
+- Uses simulated datasets  
+- Supporting documentation and examples included  
