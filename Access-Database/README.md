@@ -1,37 +1,50 @@
-# MediLink Pharmacy Management System – Data Analysis Project (Microsoft Access)
+# MediLink Pharmacy Management System (Microsoft Access)
 
-This project contains a relational database developed using Microsoft Access to model and analyse operational data for a simulated pharmacy business scenario.
+A relational database project demonstrating data modelling, querying, and data integrity using Microsoft Access, based on a simulated pharmacy business.
 
-## Overview
-The database was designed to support structured data storage, querying, and analysis of pharmacy operations, including customers, prescriptions, medicines, suppliers, and sales. The primary focus of the project was on data modelling, data integrity, and producing meaningful outputs from relational data.
+---
 
-## Analytical Focus
-- Structuring operational data for analysis and reporting
-- Designing relationships to support accurate joins and queries
-- Enforcing data integrity to ensure reliable results
-- Using queries to extract, filter, and summarise business data
+## Summary
+- Designed a relational database to support operational reporting
+- Structured data for reliable querying and analysis
+- Used Access SQL to extract and summarise business data
 
-## Key Features
-- Normalised relational tables (up to Third Normal Form)
-- Primary and foreign key relationships
-- Validation rules and constraints to improve data quality
-- Analytical queries for:
-  - Sales and transaction analysis  
-  - Inventory and supplier tracking  
-  - Customer and prescription records  
+---
 
-## Skills Demonstrated
-- Data modelling and relational design
-- Query writing and data extraction (Access SQL)
-- Understanding of data integrity and quality
-- Translating business requirements into data structures
-- Analytical thinking applied to real-world scenarios
+## Dataset Scope
+- Customers
+- Prescriptions
+- Medicines
+- Suppliers
+- Sales transactions
 
-## Tools & Technologies
+---
+
+## Key Technical Work
+- Normalised tables (up to **3NF**)  
+- Defined primary and foreign key relationships  
+- Applied validation rules and constraints  
+- Built queries for:
+  - Sales analysis
+  - Inventory and supplier tracking
+  - Customer and prescription reporting
+
+---
+
+## Skills Used
+- Relational data modelling
+- SQL querying (Microsoft Access)
+- Data quality and integrity controls
+- Translating business requirements into structured datasets
+
+---
+
+## Tools
 - Microsoft Access
-- SQL (Access query language)
-- Relational database design principles
+- SQL (Access)
+
+---
 
 ## Notes
-This project is based on a simulated organisation (MediLink Pharmacy).  
-Detailed written analysis and documentation are currently being refined and will be added in a future update.
+- Simulated business scenario (MediLink Pharmacy)
+- Supporting documentation to be added
