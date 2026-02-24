@@ -1,30 +1,40 @@
 # Software Solutions for Business
 
 ## Overview
-This project demonstrates the design and evaluation of software-based solutions to support business operations.
-It was completed as part of an Applied Computing degree and focuses on identifying organisational needs and
-proposing appropriate IT solutions.
+This project demonstrates the practical evaluation and application of software solutions to improve business operations. Completed as part of an Applied Computing degree, it focuses on analysing organisational needs and selecting appropriate technology to enhance productivity, communication, and decision-making.
 
-The project emphasises real-world business scenarios rather than purely technical theory.
+The work is based on a simulated business scenario and reflects real-world workplace technology challenges.
+
+## What This Project Shows
+- How business requirements are translated into practical software solutions
+- Hands-on use of office productivity tools in a business context
+- Evaluation of software based on efficiency, usability, cost, and scalability
+- Clear technical documentation suitable for non-technical stakeholders
 
 ## Key Areas Covered
-- Analysis of business requirements and operational challenges
-- Evaluation of software solutions to improve efficiency and productivity
-- Consideration of usability, cost, scalability, and risk
-- Alignment with business objectives and user needs
+- Business requirements analysis  
+- Evaluation of contemporary business software solutions  
+- Office applications for data creation, analysis, and presentation  
+- Practical testing of Microsoft Excel features (IF functions, VLOOKUP)  
+- Communication and collaboration tools in a business environment  
 
 ## Skills Demonstrated
-- Business analysis and problem-solving
-- Requirements gathering
-- IT solution evaluation
-- Technical documentation
-- Communication of technical ideas in a business context
+- Business analysis & problem-solving  
+- Requirements gathering  
+- Data handling and basic analysis  
+- IT solution evaluation  
+- Technical documentation  
+- Communicating technical concepts clearly  
 
 ## Tools & Technologies
-- Microsoft Office (Word, Excel)
+- Microsoft Excel (IF statements, VLOOKUP, data analysis)
+- Microsoft Word & PowerPoint
 - Business process analysis techniques
-- Written technical reporting
+- Academic and technical reporting
+
+## Why This Matters
+This project reflects the type of work expected in entry-level IT, business analysis, and operations roles — assessing business needs, selecting suitable tools, and documenting solutions clearly.
 
 ## Notes
-This project represents applied coursework using a simulated business scenario.
-All organisations referenced are fictional and used for academic purposes.
+- Completed under a formal university assessment brief  
+- All organisations, data, and scenarios are fictional and used for educational purposes only
