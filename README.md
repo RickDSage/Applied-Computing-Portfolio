@@ -1,102 +1,85 @@
-# Applied Computing Portfolio – Derek Agyei
+# Applied Computing Portfolio — Derek Agyei
 
 This repository contains selected academic and practical work completed as part of my
 **BSc Applied Computing** degree at the University of Wales Trinity Saint David (London).
 
-I am entering **Year 2** and this portfolio demonstrates practical ability in data handling,
-relational databases, operating systems, and applied cybersecurity concepts.  
-All work shown here reflects coursework with **real technical application**, not theory alone.
+I am entering **Year 2**, and this portfolio focuses on applied skills across **data analysis, relational databases, and cybersecurity fundamentals**.  
+All work shown is coursework with **hands-on technical output**, not theory-only summaries.
 
 ---
 
-## 📌 What This Portfolio Shows
+## What This Portfolio Includes
 
-- Practical data analysis using Excel  
-- Relational database design using Microsoft Access  
-- Command-line and scripting fundamentals (Windows & Linux)  
-- Applied cybersecurity thinking using recognised industry frameworks  
+- Excel-based data analysis and reporting (formulas, lookups, structured outputs)
+- Relational database design and querying in Microsoft Access
+- Cybersecurity risk assessment using recognised frameworks
+- Business-focused IT solution evaluation and technical documentation
 
-This portfolio is intended to support applications for **entry-level office, IT, data, and cyber-related roles**.
-
----
-
-## 📊 Excel Data Analysis (Practical)
-
-**Tools & Skills**
-- IF statements for logic-based decisions
-- VLOOKUP for data retrieval
-- Structured datasets and automated outputs
-
-**What I demonstrated**
-- Translating business rules into formulas  
-- Reducing manual data handling through automation  
-- Producing clear, consistent results suitable for reporting  
-
-(See files in `/Excel-Projects`)
+This portfolio supports applications for **entry-level data, IT, and cyber-related roles**.
 
 ---
 
-## 🗄️ Microsoft Access Database (Practical)
-
-**Project:** *MediLink Pharmacy Management System*
+## Excel Projects — Data Analysis (Microsoft Excel)
 
 **What I built**
-- A relational database to manage medicines, suppliers, prescriptions, and sales  
-- Proper use of primary and foreign keys  
-- Normalisation to **Third Normal Form (3NF)**  
-- Query-based reporting for operational insight  
+- Spreadsheet models that apply business rules and return consistent reporting outputs
 
-**Skills shown**
-- Data modelling  
-- Structured thinking  
-- Database integrity and relationships  
+**Key work**
+- IF logic for classification and decision rules  
+- VLOOKUP for structured data retrieval  
+- Absolute and relative referencing for reliable formula replication  
 
-(See files in `/Access-Database`)
+(See `/Excel-Projects`)
 
 ---
 
-## 🖥️ Operating Systems & Scripting (Applied Coursework)
+## Access Database — MediLink Pharmacy Management System (Microsoft Access)
 
-This section demonstrates practical use of **Windows and Linux command-line tools** and basic scripting.
+A relational database project based on a simulated pharmacy business scenario.
+
+**Key work**
+- Normalised tables (up to **3NF**)  
+- Primary and foreign key relationships  
+- Validation rules and constraints to support data quality  
+- Queries to extract, filter, and summarise operational data (sales, stock, suppliers, customers)
+
+(See `/Access-Database`)
+
+---
+
+## Cybersecurity Report — FinSecure Ltd (Simulated Case Study)
+
+An applied cybersecurity risk assessment for a simulated organisation.
 
 **Covered areas**
-- File and directory management  
-- Command-line workflows (Windows CMD & Linux Bash)  
-- Simple automation using batch and bash scripts  
-
-The focus is on understanding how operating systems manage files, processes, and automation tasks in practice.
-
-(See files in `/Linux-Scripting`)
-
----
-
-## 🔐 Cybersecurity & Risk Management (Applied Coursework)
-
-**Project:** *Security Report for FinSecure Ltd (Simulated Organisation)*
-
-**What I analysed**
-- Internal and external security threats (phishing, brute force, DDoS, credential attacks)  
-- Human error and insider risk  
-- Technical and organisational mitigations  
+- Threat identification (internal/external)  
+- Risk evaluation and mitigation recommendations  
+- Governance and compliance considerations  
 
 **Frameworks applied**
-- NIST Cybersecurity Framework  
+- NIST Cybersecurity Framework (CSF)  
 - ISO/IEC 27001  
 - CIA Triad  
-- UK GDPR  
+- UK GDPR considerations  
 
-This work demonstrates the ability to **apply security frameworks to real-world scenarios** and communicate technical risks clearly.
-
-(See files in `/Cybersecurity-Report`)
+(See `/Cybersecurity-Report`)
 
 ---
 
-## 🎯 Career Direction
+## Software Solutions for Business
 
-I am seeking **entry-level opportunities** such as:
-- Office / Administrative roles with strong IT use  
-- Junior IT Support or Systems roles  
-- Data or Operations Assistant roles  
-- Cybersecurity trainee / early-career pathways  
+Business-focused evaluation of software and IT solutions, including requirements thinking and solution comparison.
 
-This portfolio is provided as **supporting technical evidence** alongside my CV.
+**Key work**
+- Requirements and stakeholder needs  
+- Solution evaluation (usability, cost, risk, fit-for-purpose)  
+- Clear written documentation aimed at business decision-making  
+
+(See `/Software-Solutions-for-Business`)
+
+---
+
+## Notes
+
+- All organisations used are **simulated** for coursework purposes.
+- Supporting documentation may be expanded as modules are completed.
