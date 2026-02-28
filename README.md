@@ -1,7 +1,7 @@
 # Applied Computing Portfolio — Derek Agyei
 
 This repository contains selected academic and practical work completed as part of my
-**BSc Applied Computing** degree at the University of Wales Trinity Saint David (London).
+**BSc Applied Computing** degree at the University of Wales Trinity Saint David (London Campus).
 
 I am entering **Year 2**, and this portfolio focuses on applied skills across **data analysis, relational databases, and cybersecurity fundamentals**.  
 All work shown is coursework with **hands-on technical output**, not theory-only summaries.
